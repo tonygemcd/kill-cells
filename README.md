@@ -3,7 +3,7 @@ Kill cells
 
 It used *melonJS boilerplate* for a quick set-up, and used *Quintus* as the game engine.
 
-# melonJS boilerplate
+## melonJS boilerplate
 
 features :
 - video autoscaling
@@ -13,7 +13,7 @@ features :
 - default icons
 - distribution build
 
-## To run distribution
+### To run distribution
 
 To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
 
