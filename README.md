@@ -1,5 +1,9 @@
-melonJS boilerplate
+Kill cells
 -------------------------------------------------------------------------------
+
+It used *melonJS boilerplate* for a quick set-up, and used *Quintus* as the game engine.
+
+# melonJS boilerplate
 
 features :
 - video autoscaling
